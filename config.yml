@@ -1,0 +1,4 @@
+baseURL: "https://putkaizena.github.io/put-kaizena/"
+languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
