@@ -1,4 +1,51 @@
 baseURL: "https://putkaizena.com/"
-languageCode: en-us
-title: My New Hugo Site
+languageCode: bs
+title: Put Kaizena
 theme: PaperMod
+googleAnalytics: G-49K82TQGEJ
+defaultContentLanguage: bs
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary
+
+languages:
+  bs:
+    languageName: "Bosnian"
+    weight: 1
+    taxonomies:
+      category: kategorije
+      tag: tagovi
+      series: serije
+    menu:
+        main:
+            - name: Arhiva
+              url: arhiva/
+              weight: 5
+            - name: Kategorije
+              url: kategorije/
+              weight: 10
+            - name: Tagovi
+              url: tagovi/
+              weight: 15
+            - name: Pretraga
+              url: pretraga/
+              weight: 20
+
+params:
+  env: production
+  ShowPostNavLinks: true
+  ShowWordCount: true
+  ShowReadingTime: true
+  ShowCodeCopyButtons: true
+  
+  homeInfoParams:
+      Title: "Put Kaizena"
+      Content: >
+          Welcome lorem ipsum.
+
+          - **Put Kaizena** lorem ipsum.
+
+          - Lorem ipsum.
