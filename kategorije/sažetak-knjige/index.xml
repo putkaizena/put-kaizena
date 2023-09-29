@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Docs on Put Kaizena</title>
-    <link>https://putkaizena.com/docs/</link>
-    <description>Recent content in Docs on Put Kaizena</description>
+    <title>sažetak-knjige on Put Kaizena</title>
+    <link>https://putkaizena.com/kategorije/sa%C5%BEetak-knjige/</link>
+    <description>Recent content in sažetak-knjige on Put Kaizena</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bs</language>
-    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://putkaizena.com/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://putkaizena.com/kategorije/sa%C5%BEetak-knjige/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Drugi post</title>
       <link>https://putkaizena.com/docs/drugi-post/</link>
