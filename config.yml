@@ -40,12 +40,9 @@ params:
   ShowWordCount: true
   ShowReadingTime: true
   ShowCodeCopyButtons: true
+  enableEmoji: true
   
   homeInfoParams:
       Title: "Put Kaizena"
       Content: >
-          Welcome lorem ipsum.
-
-          - **Put Kaizena** lorem ipsum.
-
-          - Lorem ipsum.
+# ![Kazein](/Kaizen-Logo-Light.svg "Kaizen Logo")
