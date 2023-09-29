@@ -1,21 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Docs on Put Kaizena</title>
-    <link>https://putkaizena.com/docs/</link>
-    <description>Recent content in Docs on Put Kaizena</description>
+    <title>html on Put Kaizena</title>
+    <link>https://putkaizena.com/tagovi/html/</link>
+    <description>Recent content in html on Put Kaizena</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>bs</language>
-    <lastBuildDate>Thu, 05 Dec 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://putkaizena.com/docs/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Emoji Support</title>
-      <link>https://putkaizena.com/docs/emoji-support/</link>
-      <pubDate>Thu, 05 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://putkaizena.com/docs/emoji-support/</guid>
-      <description>Guide to emoji usage in Hugo</description>
-    </item>
-    
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://putkaizena.com/tagovi/html/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://putkaizena.com/docs/markdown-syntax/</link>
