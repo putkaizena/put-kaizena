@@ -1,7 +1,7 @@
 ---
-title: "Moć Navika: Zašto radimo ono što radimo u životu i poslu - Čarls Dahig"
+title: "Moć Navike: Zašto radimo ono što radimo u životu i poslu - Čarls Dahig"
 date: "2023-02-10"
-description: "Kratak sažetak knjige Moć Navika: Zašto radimo ono što radimo u životu i poslu - Čarlsa Dahiga"
+description: "Kratak sažetak knjige Moć Navike: Zašto radimo ono što radimo u životu i poslu - Čarlsa Dahiga"
 tagovi: ["navike", "produktivnost"]
 kategorije: ["sažetak-knjige"]
 ShowToc: true
