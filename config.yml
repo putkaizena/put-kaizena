@@ -5,6 +5,10 @@ theme: PaperMod
 googleAnalytics: G-49K82TQGEJ
 defaultContentLanguage: bs
 description: Lični razvoj (eng. self-improvement) je putovanje koje nema kraja. Na Japanskom jeziku „Kai” znači „promjena”, a „Zen” znači „dobro”, u bukvalnom prevodu „KaiZen” znači „Promjena nabolje”. Put KaiZena je jednostavno mjesto gdje možete pronaći i istražiti neke nove ideje, koje vam mogu pomoći na putu promjene nabolje.
+sitemap:
+  changeFreq: ""
+  filename: sitemap.xml
+  priority: -1
 
 outputs:
     home:
@@ -47,3 +51,10 @@ params:
       Title: "Put Kaizena"
       Content: >
 # ![Kazein](/Kaizen-Logo-Light.svg "Kaizen Logo")
+  assets:
+    disableHLJS: true
+    favicon: "/Kaizen.ico"
+  #     favicon16x16: "<link / abs url>"
+  #     favicon32x32: "<link / abs url>"
+  #     apple_touch_icon: "<link / abs url>"
+  #     safari_pinned_tab: "<link / abs url>"
