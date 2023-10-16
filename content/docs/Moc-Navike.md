@@ -1,6 +1,6 @@
 ---
 title: "„Moć Navike: Zašto radimo ono što radimo u životu i poslu” - Čarls Dahig"
-date: "2023-02-10"
+date: "2023-10-02"
 description: "Kratak sažetak knjige „Moć Navike: Zašto radimo ono što radimo u životu i poslu” - Čarlsa Dahiga"
 tagovi: ["navike", "produktivnost"]
 kategorije: ["sažetak-knjige"]
@@ -8,7 +8,7 @@ ShowToc: true
 ShowBreadCrumbs: false
 ---
 
-Koliko si se samo puta odlučio da je vrijeme za promjenu i da želiš prekinuti neku lošu naviku? 
+Koliko si puta odlučio da je vrijeme za promjenu? 
 
 > „Od danas više ne jedem slatkiše!”  🍪
 
@@ -16,20 +16,15 @@ Koliko si se samo puta odlučio da je vrijeme za promjenu i da želiš prekinuti
 
 > „Nikada više neću okusiti alkohol!”  🍺
 
-Startuješ sa puno odlučnosti i motivacije, međutim za nekoliko dana ili sedmica vraćaš se na isto.
+Startuješ sa puno odlučnosti i motivacije, ali već za nekoliko dana ili sedmica vraćaš se na staro.
 Bez brige, većina ljudi se suočava sa ovim.
 Svi su iskusili tu frustraciju neuspješnih promjena, jednostavno kao da ne postoji trajno rješenje.
-Ali knjiga "Moć Navika" autora Čarlsa Dahiga, nudi sistemski i naučni pristup ovom problemu.
-Napisana je na osnovu jednostavne ali moćne ideje: 
+Ipak "Moć Navika" autora Čarlsa Dahiga, nudi sistemski i naučni pristup ovom problemu.
+Osnovu ove knjige čini jednostavna ali snažna ideja:
 
 **„Ako razumiješ kako navike funkcionišu, možeš da ih promjeniš!”**
 
-
-**Navike** su odluke koje u početku donosiš svjesno, ali vremenom prestaneš misliti o njima i nastavljaš ih ponavljati.
-
-
-_Napomena: Knjiga se sastoji iz tri dijela, navike pojedinca, navike organizacije i navike društva, a sažetak se bavi isključivo prvim dijelom._
-
+**Navike** predstavljaju odluke koje u početku donosiš svjesno, ali vremenom prestaneš misliti o njima i nastavljaš ih ponavljati.
 
 # Zašto nastaju navike
 
