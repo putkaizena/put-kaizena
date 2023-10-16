@@ -16,7 +16,7 @@ Koliko si puta odlučio da je vrijeme za promjenu?
 
 > „Nikada više neću okusiti alkohol!”  🍺
 
-Startuješ sa puno odlučnosti i motivacije, ali već za nekoliko dana ili sedmica vraćaš se na staro.
+Startuješ sa puno motivacije, ali već za nekoliko dana ili sedmica vraćaš se na staro.
 Bez brige, većina ljudi se suočava sa ovim.
 Svi su iskusili tu frustraciju neuspješnih promjena, jednostavno kao da ne postoji trajno rješenje.
 Ipak "Moć Navika" autora Čarlsa Dahiga, nudi sistemski i naučni pristup ovom problemu.
@@ -36,19 +36,16 @@ Osnovu ove knjige čini jednostavna ali snažna ideja:
 
 > Kojim putem ideš na posao?
 
-Vjerovatno misliš da su ovo sve svjesni i namjerni izbori.
-Ali nauka kaže da **barem 40%** ovih dnevnih aktivnosti nisu svjesne i namjerne, već prosto navike!
+Vjerovatno misliš da su ovo svjesni i namjerni izbori.
+Ali nauka kaže da su **barem 40%** ovih dnevnih aktivnosti navike.
 
-Sve počinje sa mozgom. 🧠
-
-On ima ograničene resurse na raspolaganju i trudi se da pretvori gotovo sve rutine u navike.
-Na taj način manje radi i čuva energiju za važnije odluke, smanjuje stres i olakšava ti život.
-Nažalost prilikom toga on ne vodi računa o tome da li je neka navika dobra ili loša.
-Za njega je to samo navika.
+Mozak je ograničen i pokušava da pretvori sve aktivnosti koje se ponavljaju u navike.
+Tako mozak čuva energiju za važnije odluke i smanjuje stres.
+Nažalost prilikom toga ne vodi računa o tome da li je neka navika dobra ili loša, za njega je to samo navika.
 
 # Kako nastaju navike
 
-Proces nastanka navika se opisuje **petljom navika**, koja izgleda kao začarani krug koji te tjera da nešto ponavljaš iznova i iznova.
+Proces stvaranja navika ilustruje **petlja navika**, a koja izgleda kao začarani krug koji te tjera da nešto stalno ponavljaš.
 
 Petlja navika se sastoji od sljedećih dijelova:
 1. **Signala**, koji služi kao okidač da mozak pređe u automatski mod i uradi nešto;
@@ -57,85 +54,83 @@ Petlja navika se sastoji od sljedećih dijelova:
 
 ![Petlja Navika](/Petlja-Navika.png "Petlja Navika")
 
-Kako se iznova i iznova susrećemo sa ovom trodjelnom petljom, proces polako postaje automatski.
-Međutim signal i nagrada nisu dovoljni da se formira trajna navika.
+Vremenom proces postaje automatski.
+Međutim samo signal i nagrada nisu dovoljni da se formira trajna navika.
 Navike se zaista učvršćuje u mozgu onda kada signal i nagrada podsvjesno formiraju moćnu neurološku **žudnju** koja te primorava da izvršiš neku rutinu.
 **Ta žudnja je „gorivo” za petlju navika.**
 
 ![Petlja Navika](/Petlja-Navika-2.png "Petlja Navika")
 
-Jednom kada se navika formira, mozak prestaje aktivno učestvovati u donošenju odluke.
-Jednostavno se više ne trudi i prebacuje pažnju na druge zadatke.
+Jednom kada se specifična navika formira, mozak više ne razmišlja o njoj i prebacuje pažnju na druge stvari.
 
-Kako bi ovo bolje shvatio evo jedne realane situacije.
+Evo kako proces stvaranja navike izgleda na jednom primjeru.
 
 
-> Sara je marketing menadžer i veoma je posvećena svom poslu.
+> Sara je posvećena svom poslu.
 >  
 > Često se suočava sa izazovnim radnim danima koji su ispunjeni kraktim rokovima i zahtjevima klijenata. 
 > 
-> Tokom jednog od tih dana, Sara se osjećala loše i uznemireno. 
+> Jednog od tih dana stvari su počele izmicati kontroli.
+>
+> Sarin osmjeh je zamjenilo mrštenje, a oči su se napunile suzama.
 > 
-> Igrom slučaja na stolu je imala čokoladu, poklon od prijateljice.
+> Igrom slučaja na stolu je stajala čokolada, poklon od prijateljice.
 > 
-> Bez mnogo razmišljanja uzela je i zagrizla, još uvijek razmišljajući o hitnom projektu.
+> Bez mnogo razmišljanja zgrabila je i zagrizla, još uvijek razmišljajući o tom prokletom projektu.
 > 
-> Čokolada je uradila svoje i izazvala otpuštanje određenih supstanci u mozgu.
+> Efekti čokolade su poremetili hemijske odnose u mozgu.
 > 
-> Sara je osjetila iznenađujući osećaj olakšanja. 
+> Osmjeh se vratio na Sarino lice i na trenutak je zaboravila na posao. 
 > 
-> Ovaj kratak trenutak uživanja izazvao je odvraćanje pažnje od posla i stresa.
+> Duboko je udahnula i ramena su se opustila, dok je stres nestao.
 > 
-> Osjećala se dosta opuštenije.
+> Ponovila bi ovo kada god bi se našla u sličnoj situaciji.
 > 
-> Ponovila je to i u narednih par dana i počela da povezuje čokoladu sa oslobađanjem od stresa.
-> 
-> Sada kada god se nađe pod stresom, njen mozak automatski stvara žudnju za čokoladom, odnosno olakšanjem.
+> Mozak je počeo da stvara vezu između čokolade i opuštanja, a žudnja se počela polako javljati.
 >
 > Formirala se veoma jednostavna petlja navika:
 > 1. **Signal**: Stres;
 > 2. **Rutina**: Pojesti čokoladu (otkrivena slučajno);
-> 3. **Nagrada**: Privremeno opuštanje.
+> 3. **Nagrada**: Opuštanje.
 > 
 > **Žudnja**: Oslobođanje od stresa.
 
 # Stvaranje novih i promjena starih navika
 
-Svako može da iskoristi ovu petlju da stvori naviku koju želi.
-Recimo da hoćeš da počneš trčati.
-Jednostavno ostavi patike pored kreveta da posluže kao signal da ideš na trčanje čim ustaneš.
-Nakon trčanja počasti se proteinskim šejkom sa ukusom od čokolade.
-Razmišljaj o zadovoljstvu koje osjećaš nakon što završiš trčanje (endorfin) ili kada popiješ čokoladni šejk, kako bi stvorio žudnju koja će ti pomoći da svako jutro odeš na trčanje.
+Ova petlja je univerzalna, svi mogu da je iskoriste.
+Prvo pronađi pouzdan **signal** koji će ti poslužiti kao okidač (npr. patike za trčanje).
+Obavi aktivnost za koju želiš da postane **rutina** (npr. trčanje).
+Uzmi **nagradu** poslije obavljene aktivnosti (npr. čokoladni šejk).
+Razmišljaj o zadovoljstvu koje ti donosi **nagrada** nakon što obaviš **rutinu**, kako bi stvorio **žudnju**.
 
-Bilo bi lijepo da se loše navike jednostavno možeš izbrisati, ali nažalost to je nemoguće, jer su one čvrsto utaknute u tvoj mozak. 
+Nažalost loše navike se ne mogu izbrisati, one su čvrsto utaknute u mozak.
 Ipak ono što možeš uraditi je da ih promjeniš.
 A ovo je zlatno pravilo promjene navika: 
 
 **„Ako koristiš isti znak i istu nagradu, možeš mjenjati rutinu i tako promjeniti naviku!”**
 
-Gotovo sve navike mogu biti promjenjena na ovaj način.
-Ipak neka navike su teške za pormjeniti i zahtjevaju još jedan sastojak, a to je **vjerovanje**.
+Skoro sve navike mogu biti promjenjena na ovaj način.
+Ipak neka zahtjevaju još jedan sastojak, a to je **vjerovanje**.
 **Moraš vjerovati da je promjena moguća.**
 Zamjenska navika postaje trajna samo onda kada je nova navika podržana nečim drugim, nečim moćnim kao što su grupe i zajednička iskustva. 
 Zajednice stvaraju vjerovanja.
-Efektivna promjena se dešava kada se ljudi okupe da pomognu jedni drugima u promjeni (npr. udruženje Anonimnih Alkholičara - AA).
+Efektivna promjena se dešava kada se ljudi okupe da pomognu jedni drugima u promjeni (npr. udruženje Anonimnih Alkoholičara - AA).
 
 # Ključne navike
 
-Nisu sve navike stvorene jednake.
-Neke navike imaju moć da pokrenu lančanu reakciju.
-Neke navike su jednostavno rečeno važnije od drugih.
+Nisu sve navike jednake.
+Neke navike imaju moć da pokrenu lančanu reakciju, one su jednostavno rečeno važnije od drugih.
 Te navike se zovu **ključne navike** i one utiču na to kako živiš, radiš, jedeš, treniraš, trošiš i kominiciraš.
-One započinju proces koji veremenom dovodi do kompletne transformacije.
+One započinju proces koji veremenom dovodi do potpune transformacije.
 
 Uspjeh ne zavisi od toga da li ćeš dovesti **SVE** stvari u red, on zavisi od identifikovanja nekoliko prioriteta i njihovog oblikovanja u moćne poluge promjene.
 
-Kada ljudi počnu da vježbaju, po navici, počinju da mijenjaju i druge nepovezane obrazce u životu, često nesvjesno.
-Počinju da se hrane bolje i postaju produktivniji na poslu, manje puše i piju, imaju više strpljenja sa prijateljima i porodicom, manje troše pare i osjećaju manje stres.
-Za mnoge ljude upravo je vježbanje ključna navika koja izaziva lančanu reakciju.
-Nije baš najjasnije zašto se ovo dešava, ali se dešava.
-Jedno od objašnjenja je da one dovode do pojave takozvanih "malih pobjeda" i **uspostavljanju kulture u kojoj promjena postaje zarazna.**
-Međutim prepoznavanje ovih ključnih navika nije nimalo lagan posao.
+Kada ljudi počnu redovno trenirati, nesvjesno mijenjaju i druge obrazce u životu.
+Hrane se zdravije i produktivniji se na poslu, manje puše i piju, imaju više strpljenja sa prijateljima i porodicom, manje troše pare i manje su pod stresom.
+Za mnoge upravo je treniranje ključna navika koja izaziva lančanu reakciju.
+Nije baš jasno zašto se ovo dešava, ali se dešava.
+Jedno od objašnjenja je da ključne navike dovode do pojave „malih pobjeda” i **uspostavljanja kulture u kojoj promjena postaje zarazna.**
+Međutim prepoznavanje ovih ključnih navika nije lagan posao.
 
 # Snaga volje
 
@@ -152,7 +147,7 @@ Kako to možeš sprječiti?
 Možda da poslije posla prvo svratiš u teretanu pa tek onda da ideš kući?
 
 Ključno je da identifikuješ ovaj trenutak i napraviš plan kako da se nosiš sa njim.
-Ovo je način kako snagu volje možeš pretvoriti u naviku: **izborom određenih ponašanja unaprijed, a zatim prateći rutinu kada se jave trenuci slabosti.**
+Dakle snagu volje možeš pretvoriti u naviku **izborom određenih ponašanja unaprijed, a zatim prateći rutinu kada se jave trenuci slabosti.**
 
 # Kratak osvrt
 
@@ -160,7 +155,7 @@ Sama ideja koja stoji iza knjige zvuči veoma interesantno.
 Iskoristi petlju navika da stvoriš nove dobre navike i zlatno pravilo da promjeniš postojeće loše  navike.
 I na neki način te navodi na zaključak  da su stvaranje i promjena navika jednostavni i lagani procesi.
 Međutim u stvarnosti to baš i ne ide tako glatko.
-Naprimjer dosta je lakše stvoriti lošu nego dobru naviku.
+Dosta je lakše stvoriti lošu nego dobru naviku.
 
 Prva petlja navike:
 1. **Signal**: Stres;
@@ -179,6 +174,3 @@ Takođe prilikom pokušaja da stvoriš dobru naviku možeš slučajno stvoriti l
 1. **Signal**: Ugledaj patike za trčanje.
 2. **Rutina**: Osjećaj se loše jer prethodnih par dana nisi trčao i pojedi čokoladu.
 3. **Nagrada**: Utješi se čokoladom i osjećajem da će sutra biti bolje i drugačije.
-
-Ključne navike takođe djeluju previše magično.
-Ili barem ja ne spadam u grupu ljudi čija je ključna navika vježbanje i koja bi trebala da izazove lančanu reakciju.
